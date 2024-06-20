@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quocan01255&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quocan01255&hide_progress=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quocan01255&hide_progress=false&layout=compact&theme=dracula)
 
 <!--
 **quocan01255/quocan01255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
